@@ -1,9 +1,7 @@
-
+# Bengaluru-House-Price-Prediction
 <div align='center'>
   <img src="https://github.com/Sidharthaagasti31/Bengaluru-House-Price-Prediction/assets/50338854/4a0dc9fb-8cd6-46e8-b730-f3896d3bbf25" , alt="house",height=80,width=80 >
   </div>
-
-# Bengaluru-House-Price-Prediction
 
 
 
