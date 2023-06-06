@@ -29,3 +29,9 @@ The project follows the following steps to predict house prices:
 
 ### Results
 From this ML project after testing various model, we got Linear regression Model to be best situated for predicting price of house in bengaluru having cross_validation score above 80% which is pretty good . And after train we got R2_Score around 82%.
+
+
+### Future Improvements
+1. We have only considered few features , and droped few features like Balcony which may be more important for deciding the price of house.
+
+2. We have only tested with few models like lasso, linearRegression, DecisiontreeRegression . But there are more Regression model out there which needed to be explore like SVR regression,Random Forest Regression,Gradient Boosting Regression (e.g., XGBoost, LightGBM),AdaBoost Regression etc.
