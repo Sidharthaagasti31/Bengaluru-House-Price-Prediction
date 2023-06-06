@@ -1,5 +1,8 @@
 
-![download](https://github.com/Sidharthaagasti31/Bengaluru-House-Price-Prediction/assets/50338854/4a0dc9fb-8cd6-46e8-b730-f3896d3bbf25)
+<div align='center'>
+  <img src="https://github.com/Sidharthaagasti31/Bengaluru-House-Price-Prediction/assets/50338854/4a0dc9fb-8cd6-46e8-b730-f3896d3bbf25" , alt="house",height=80,width=80 >
+  </div>
+
 # Bengaluru-House-Price-Prediction
 
 
@@ -16,6 +19,8 @@ Size: The size of the house in terms of the number of rooms.
 total_sqft: The total area of the house in square feet.
 Number of bathrooms: The number of bedrooms in the house as in 'bath' column .
 Price: The target variable, i.e., the price of the house.
+
+### Tools Used
 
 
 ### Methodology
@@ -37,3 +42,5 @@ From this ML project after testing various model, we got Linear regression Model
 1. We have only considered few features , and droped few features like Balcony which may be more important for deciding the price of house.
 
 2. We have only tested with few models like lasso, linearRegression, DecisiontreeRegression . But there are more Regression model out there which needed to be explore like SVR regression,Random Forest Regression,Gradient Boosting Regression (e.g., XGBoost, LightGBM),AdaBoost Regression etc.
+     
+     
