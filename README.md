@@ -19,6 +19,7 @@ Number of bathrooms: The number of bedrooms in the house as in 'bath' column .
 Price: The target variable, i.e., the price of the house.
 
 ### Tools Used
+<img src="https://github.com/Sidharthaagasti31/Sidharthaagasti31/assets/50338854/dc8316b6-70d3-416d-9910-cbf8fec92834" alt="excel" height=70 width=70 ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="70" height="70"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="70" height="70"/> 
 
 
 ### Methodology
